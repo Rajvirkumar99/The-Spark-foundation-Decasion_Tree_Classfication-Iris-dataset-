@@ -1,9 +1,7 @@
 # The-Spark-foundation-Decasion_Tree_Classfication-Iris-dataset-
 The Spark Foundation internship 
 
-#1.  Task  to create Decision tree A logo to predict classification   2. Task EDA to creat Dasboard for supermarket on data where we required to work to enhance profit usin Power BI 
-
-
+#1.  Task  to create Decision tree A logo to predict classification   
 Dataset Information
 The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
 
@@ -15,8 +13,8 @@ petal length in cm
 petal width in cm
 species: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
 
+#Machine Learning Libraries Use in Project
 
-Libraries
 pandas
 matplotlib
 seaborn
@@ -27,8 +25,10 @@ K-Nearest Neighbors
 Decision Tree
 Best Model Accuracy: 97.00
  
- #Task-2
+ 
+ #2. Task EDA to creat Dasboard for supermarket on data where we required to work to enhance profit usin Power BI 
 
+ 
 Data: Sample Super Store 
 
 Task Level: Beginner 
